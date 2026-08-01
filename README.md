@@ -1,5 +1,5 @@
 # Me:
-I'm currently working on a 3D psychological horror game in C# using Unity<br><br>I'm currently learning Python, C#<br><br>Fun fact "It's not your fault."<br><br>Ask me about C#, .NET, game development, encryption
+BackEnd/GameDev Developer
 
 
 ## Socials:
