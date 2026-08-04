@@ -1,5 +1,5 @@
 # Me:
-BackEnd/GameDev Developer
+BackEnd/GameDev
 
 
 ## Socials:
