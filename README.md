@@ -1,5 +1,5 @@
 # Me:
-BackEnd/Game Developer
+Backend & Game Developer, passionate about building game mechanics and server-side logic. Working with C#, Python, and C++.
 
 
 # Tech Stack:
