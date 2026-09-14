@@ -1,5 +1,5 @@
 # Me:
-Backend & Game Developer, passionate about building game mechanics and server-side logic. Working with C#, Python, and learning C++.
+Backend & Game Developer, passionate about building game mechanics and server-side logic. Working with C#, Python.
 
 
 # Tech Stack:
@@ -7,7 +7,6 @@ Backend & Game Developer, passionate about building game mechanics and server-si
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 # More:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 
 
